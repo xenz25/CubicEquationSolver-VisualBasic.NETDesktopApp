@@ -1,0 +1,39 @@
+C:\Users\Jolo Catacutan\Desktop\CUBIC EQUATION SOLVER\CubicEquationSolver\bin\Release\CubicEquationSolver.exe.config
+C:\Users\Jolo Catacutan\Desktop\CUBIC EQUATION SOLVER\CubicEquationSolver\bin\Release\CubicEquationSolver.exe
+C:\Users\Jolo Catacutan\Desktop\CUBIC EQUATION SOLVER\CubicEquationSolver\bin\Release\CubicEquationSolver.pdb
+C:\Users\Jolo Catacutan\Desktop\CUBIC EQUATION SOLVER\CubicEquationSolver\bin\Release\CubicEquationSolver.xml
+C:\Users\Jolo Catacutan\Desktop\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.vbprojAssemblyReference.cache
+C:\Users\Jolo Catacutan\Desktop\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.Form1.resources
+C:\Users\Jolo Catacutan\Desktop\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.Resources.resources
+C:\Users\Jolo Catacutan\Desktop\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.vbproj.GenerateResource.cache
+C:\Users\Jolo Catacutan\Desktop\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.exe
+C:\Users\Jolo Catacutan\Desktop\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.xml
+C:\Users\Jolo Catacutan\Desktop\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.pdb
+C:\Users\Jolo Catacutan\Desktop\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.vbproj.ResolveComReference.cache
+C:\Users\Jolo Catacutan\Desktop\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.History.resources
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\CUBIC EQUATION SOLVER\CubicEquationSolver\bin\Release\CubicEquationSolver.exe.config
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\CUBIC EQUATION SOLVER\CubicEquationSolver\bin\Release\CubicEquationSolver.exe
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\CUBIC EQUATION SOLVER\CubicEquationSolver\bin\Release\CubicEquationSolver.pdb
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\CUBIC EQUATION SOLVER\CubicEquationSolver\bin\Release\CubicEquationSolver.xml
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.vbproj.ResolveComReference.cache
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.Form1.resources
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.History.resources
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.Resources.resources
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.vbproj.GenerateResource.cache
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.exe
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.xml
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.pdb
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.vbprojAssemblyReference.cache
+C:\Users\Jolo Catacutan\Documents\2020 Programming Files\Visual Basic\CUBIC EQUATION SOLVER\CubicEquationSolver\bin\Release\CubicEquationSolver.exe.config
+C:\Users\Jolo Catacutan\Documents\2020 Programming Files\Visual Basic\CUBIC EQUATION SOLVER\CubicEquationSolver\bin\Release\CubicEquationSolver.exe
+C:\Users\Jolo Catacutan\Documents\2020 Programming Files\Visual Basic\CUBIC EQUATION SOLVER\CubicEquationSolver\bin\Release\CubicEquationSolver.pdb
+C:\Users\Jolo Catacutan\Documents\2020 Programming Files\Visual Basic\CUBIC EQUATION SOLVER\CubicEquationSolver\bin\Release\CubicEquationSolver.xml
+C:\Users\Jolo Catacutan\Documents\2020 Programming Files\Visual Basic\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.vbprojAssemblyReference.cache
+C:\Users\Jolo Catacutan\Documents\2020 Programming Files\Visual Basic\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.vbproj.ResolveComReference.cache
+C:\Users\Jolo Catacutan\Documents\2020 Programming Files\Visual Basic\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.Form1.resources
+C:\Users\Jolo Catacutan\Documents\2020 Programming Files\Visual Basic\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.History.resources
+C:\Users\Jolo Catacutan\Documents\2020 Programming Files\Visual Basic\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.Resources.resources
+C:\Users\Jolo Catacutan\Documents\2020 Programming Files\Visual Basic\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.vbproj.GenerateResource.cache
+C:\Users\Jolo Catacutan\Documents\2020 Programming Files\Visual Basic\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.exe
+C:\Users\Jolo Catacutan\Documents\2020 Programming Files\Visual Basic\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.xml
+C:\Users\Jolo Catacutan\Documents\2020 Programming Files\Visual Basic\CUBIC EQUATION SOLVER\CubicEquationSolver\obj\Release\CubicEquationSolver.pdb
