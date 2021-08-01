@@ -1,5 +1,5 @@
 # CubicEquationSolver-VisualBasicSoftwareApplication
-A Cubic Equation Solver Desktop Application using Visual Basic Language
+A Cubic Equation Solver Desktop Application using Visual Basic .NET Language
 
 # Purpose
 I created this desktop application just for fun and also to help me solve and check Cubic Equations Problems for my Numerical Methods Course
