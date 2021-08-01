@@ -1,4 +1,4 @@
-# CubicEquationSolver-VisualBasicSoftwareApplication
+# CubicEquationSolver-VisualBasic.NETDesktopApplication
 A Cubic Equation Solver Desktop Application using Visual Basic .NET Language
 
 # Purpose
