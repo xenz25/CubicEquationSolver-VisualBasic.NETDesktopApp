@@ -14,7 +14,7 @@ I created this desktop application just for fun and also to help me solve and ch
 
 # Sample Interface
 - Home View
-![alt text](https://github.com/xenz25/CubicEquationSolver-VisualBasicSoftwareApplication/blob/main/Demo/Home%20View.jpg?raw=true)
+- ![alt text](https://github.com/xenz25/CubicEquationSolver-VisualBasicSoftwareApplication/blob/main/Demo/Home%20View.jpg?raw=true)
 
 - History View
-![alt text](https://github.com/xenz25/CubicEquationSolver-VisualBasicSoftwareApplication/blob/main/Demo/History%20View.jpg?raw=true)
+- ![alt text](https://github.com/xenz25/CubicEquationSolver-VisualBasicSoftwareApplication/blob/main/Demo/History%20View.jpg?raw=true)
